@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ManagerData</id>
+    <version>1.0.0</version>
+    <authors>ManagerData</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net10.0-windows7.0">
+        <dependency id="LiveCharts.WinForms" version="0.9.7.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient" version="7.0.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Data.SqlClient.SNI.runtime" version="6.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net10.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\Project\winform\ManagerData\ManagerData\bin\Debug\net10.0-windows\ManagerData.runtimeconfig.json" target="lib\net10.0-windows7.0\ManagerData.runtimeconfig.json" />
+    <file src="D:\Project\winform\ManagerData\ManagerData\bin\Debug\net10.0-windows\ManagerData.dll" target="lib\net10.0-windows7.0\ManagerData.dll" />
+  </files>
+</package>

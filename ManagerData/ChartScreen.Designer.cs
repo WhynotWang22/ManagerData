@@ -66,6 +66,7 @@
             Name = "ChartScreen";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "ChartScreen";
+            Load += ChartScreen_Load;
             flowPanel.ResumeLayout(false);
             flowPanel.PerformLayout();
             ResumeLayout(false);

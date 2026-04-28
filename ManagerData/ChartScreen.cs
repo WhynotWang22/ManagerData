@@ -26,8 +26,8 @@ namespace ManagerData
 
                 foreach (var product in products)
                 {
-                    ProductCart card = new ProductCart(); 
-                    card.SetData(product);              
+                    ProductCart card = new ProductCart();
+                    card.SetData(product);
                     //card.Margin = new Padding(-100);
                     flowPanel.Controls.Add(card);
                     flowPanel.Controls.Add(card);
@@ -41,6 +41,11 @@ namespace ManagerData
         private void close_chartScreen_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void ChartScreen_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

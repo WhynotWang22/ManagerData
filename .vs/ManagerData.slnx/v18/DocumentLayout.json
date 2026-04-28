@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Project\\winform\\ManagerData\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|d:\\project\\winform\\managerdata\\managerdata\\chartscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\chartscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|D:\\Project\\winform\\ManagerData\\managerdata\\chartscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\chartscreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|D:\\Project\\winform\\ManagerData\\managerdata\\datascreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\datascreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|d:\\project\\winform\\managerdata\\managerdata\\datascreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\datascreen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|d:\\project\\winform\\managerdata\\managerdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|d:\\project\\winform\\managerdata\\managerdata\\card\\productcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\card\\productcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|d:\\project\\winform\\managerdata\\managerdata\\card\\productcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7792671-7410-414D-BD62-25EF1E3D60CB}|ManagerData\\ManagerData.csproj|solutionrelative:managerdata\\card\\productcart.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DataScreen.cs",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\DataScreen.cs",
+              "RelativeDocumentMoniker": "ManagerData\\DataScreen.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\DataScreen.cs",
+              "RelativeToolTip": "ManagerData\\DataScreen.cs",
+              "ViewState": "AgIAALgAAAAAAAAAAAAawMUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:53:16.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\DataScreen.cs",
+              "RelativeDocumentMoniker": "ManagerData\\DataScreen.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\DataScreen.cs [Design]",
+              "RelativeToolTip": "ManagerData\\DataScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:50:58.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductCart.cs",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\Card\\ProductCart.cs",
+              "RelativeDocumentMoniker": "ManagerData\\Card\\ProductCart.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\Card\\ProductCart.cs",
+              "RelativeToolTip": "ManagerData\\Card\\ProductCart.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:37:05.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChartScreen.cs",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\ChartScreen.cs",
+              "RelativeDocumentMoniker": "ManagerData\\ChartScreen.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\ChartScreen.cs",
+              "RelativeToolTip": "ManagerData\\ChartScreen.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:53:46.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartScreen.cs [Design]",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\ChartScreen.cs",
+              "RelativeDocumentMoniker": "ManagerData\\ChartScreen.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\ChartScreen.cs [Design]",
+              "RelativeToolTip": "ManagerData\\ChartScreen.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T08:54:24.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\Program.cs",
+              "RelativeDocumentMoniker": "ManagerData\\Program.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\Program.cs",
+              "RelativeToolTip": "ManagerData\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T09:22:17.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductCart.Designer.cs",
+              "DocumentMoniker": "D:\\Project\\winform\\ManagerData\\ManagerData\\Card\\ProductCart.Designer.cs",
+              "RelativeDocumentMoniker": "ManagerData\\Card\\ProductCart.Designer.cs",
+              "ToolTip": "D:\\Project\\winform\\ManagerData\\ManagerData\\Card\\ProductCart.Designer.cs",
+              "RelativeToolTip": "ManagerData\\Card\\ProductCart.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T09:48:25.854Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
